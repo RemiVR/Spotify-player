@@ -1,8 +1,6 @@
 {
   "name": "spotify-player",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,5 +8,16 @@
   "license": "ISC",
   "devDependencies": {
     "grunt": "^0.4.5"
-  }
+  },
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RemiVR/Spotify-player.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RemiVR/Spotify-player/issues"
+  },
+  "homepage": "https://github.com/RemiVR/Spotify-player"
 }
